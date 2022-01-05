@@ -17,7 +17,7 @@ body{
 }
  .half-width img{
    width: 300px;
-   padding-bottom: 50px;
+   
    
    
 }
@@ -42,3 +42,97 @@ body{
    letter-spacing: 3px;
    transition: 0.6s;
 }
+.center h1{
+   text-align: center;
+   font-size: 30px;
+}
+.change{
+   color: salmon;
+}
+.mission{
+   width: 250px;
+   border: 1px solid black;
+   background-color:cadetblue;
+   border-radius: 10px;
+   margin: 30px;
+   padding: 10px;
+}
+.mission-image img{
+   width: 100%;
+}
+.vission{
+   width: 250px;
+   border: 1px solid black;
+   background-color:mintcream;
+   border-radius: 10px;
+   margin: 30px;
+   padding: 10px;
+}
+.vission-image img{
+   width: 100%;
+}
+.goal{
+   width: 250px;
+   border: 1px solid black;
+   background-color: cornsilk;
+   border-radius: 10px;
+   margin: 30px;
+   padding: 10px;
+}
+.goal-image img{
+   width: 100%;
+}
+#second-step{
+   display: flex;
+   justify-content: center;
+}
+.develop-image img{
+   width: 400px;
+   margin: 80px;
+}
+.develop{
+   width: 700px;
+   padding-top:10%;
+
+}
+#third-step{
+   display: flex;
+   justify-content: center;
+}
+.develop button{
+   background-color: chocolate;
+   border: 1px solid;
+   border-radius: 5px;
+}
+.develop button:hover{
+   background-color: cornflowerblue;
+   font-weight: 700;
+   letter-spacing: 3px;
+   transition: 0.6s;
+}
+#fourth-step{
+   display: flex;
+   justify-content: center;
+}
+.community-image img{
+   width: 400px;
+   margin: 80px;
+}
+.community{
+   width: 700px;
+   padding-top:10%;
+   margin-right: 30px;
+
+}
+.community button{
+   background-color: tomato;
+   border: 1px solid;
+   border-radius: 5px;
+}
+.community button:hover{
+   background-color: cornflowerblue;
+   font-weight: 700;
+   letter-spacing: 3px;
+   transition: 0.6s;
+
+
