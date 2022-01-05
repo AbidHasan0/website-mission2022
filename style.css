@@ -1,0 +1,44 @@
+body{
+   font-family: 'Poppins', sans-serif;
+   margin:0;
+   padding: 0;
+}
+.first-step{
+   display: flex;
+   padding-bottom: 20px;
+
+}   
+.half-width{
+   width: 400px;
+   margin:  80px;
+   padding: 50px;
+   
+ 
+}
+ .half-width img{
+   width: 300px;
+   padding-bottom: 50px;
+   
+   
+}
+.half-width h1{
+   border-left: 3px solid red;
+   padding: 2px;
+   font-size: 40px;
+   
+}
+.color{
+   color: tomato;
+}
+.button{
+   background-color: indigo;
+   color: #fff;
+   padding: 10px 30px;
+   border: 2px solid greenyellow;
+   border-radius: 10px;
+}
+.button:hover{
+   background-color: maroon;
+   letter-spacing: 3px;
+   transition: 0.6s;
+}
