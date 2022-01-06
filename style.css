@@ -16,7 +16,7 @@ body{
  
 }
  .half-width img{
-   width: 300px;
+   width: 350px;
    
    
    
@@ -98,6 +98,8 @@ body{
 #third-step{
    display: flex;
    justify-content: center;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
 }
 .develop button{
    background-color: chocolate;
@@ -113,6 +115,8 @@ body{
 #fourth-step{
    display: flex;
    justify-content: center;
+   background-image: url(images/shapes/shape-5.png);
+   background-repeat: no-repeat;
 }
 .community-image img{
    width: 400px;
