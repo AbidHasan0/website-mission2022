@@ -31,11 +31,12 @@ body{
    color: tomato;
 }
 .button{
-   background-color: indigo;
+   background-color: orange;
    color: #fff;
    padding: 10px 30px;
-   border: 2px solid greenyellow;
+   border: 1px solid greenyellow;
    border-radius: 10px;
+   text-decoration: none;
 }
 .button:hover{
    background-color: maroon;
@@ -138,5 +139,21 @@ body{
    font-weight: 700;
    letter-spacing: 3px;
    transition: 0.6s;
-
+}
+.last-step{
+   width: 700px;
+   background-color: black;
+   padding-left: 30px;
+   margin-left: 25%;
+}
+.last-step h1{
+   color: #fff;
+   text-align: center;
+   padding-top: 10px;
+}
+.last-step p{
+   color: #fff;
+   text-align: center;
+   padding-bottom: 20px;
+}
 
