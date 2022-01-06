@@ -53,8 +53,8 @@ body{
    color: salmon;
 }
 .mission{
-   width: 250px;
-   border: 1px solid black;
+   width: 300px;
+   height: 10%;
    background-color:cadetblue;
    border-radius: 10px;
    margin: 30px;
@@ -64,9 +64,8 @@ body{
    width: 100%;
 }
 .vission{
-   width: 250px;
-   border: 1px solid black;
-   background-color:mintcream;
+   width: 300px;
+   background-color:lavender;
    border-radius: 10px;
    margin: 30px;
    padding: 10px;
@@ -75,8 +74,7 @@ body{
    width: 100%;
 }
 .goal{
-   width: 250px;
-   border: 1px solid black;
+   width: 300px;
    background-color: cornsilk;
    border-radius: 10px;
    margin: 30px;
@@ -178,15 +176,16 @@ section h1{
    transition: 0.6s;
 }
 .last-step{
-   width: 700px;
+   width: 100%;
    background-color: black;
-   padding-left: 30px;
-   margin-left: 25%;
+   padding: 5px;
+   margin:10px;
 }
 .last-step h1{
    color: #fff;
    text-align: center;
    padding-top: 10px;
+   font-family: 'Lobster', cursive;
 }
 .last-step p{
    color: #fff;
